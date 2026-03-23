@@ -1,6 +1,9 @@
 package org.example;
 
-public abstract class Task {
+import java.io.Serializable;
+
+//CLASA DE BAZA/ABSTRACTA
+public abstract sealed class Task implements Serializable permits SimpleTask, ComplexTask{
 
     public int idTask;
     public String statusTask;

@@ -18,7 +18,7 @@ public final class SimpleTask extends Task{
     //metoda din clasa abstracta
     @Override
     public int estimateDuration() {
-        return (endHour-startHour);
+        return endHour-startHour;
     }
 
     //gett si sett

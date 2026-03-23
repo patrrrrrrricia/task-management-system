@@ -1,6 +1,9 @@
 package org.example;
 
-public class Employee {
+import java.io.Serializable;
+import java.util.Objects;
+
+public class Employee implements Serializable { //pt salvarea datelor ulterior
     public int idEmployee;
     public String name;
 
@@ -12,6 +15,20 @@ public class Employee {
     public Employee(int idEmployee, String name) {
         this.idEmployee = idEmployee;
         this.name = name;
+    }
+
+    //suprascriere pt map, pt a sti ca 2 angajati cu acelasi ID sunt aceeasi persoana
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Employee employee = (Employee) o;
+        return idEmployee == employee.idEmployee;
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(idEmployee);
     }
 
     //gett si sett
