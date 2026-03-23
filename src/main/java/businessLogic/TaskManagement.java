@@ -1,4 +1,7 @@
-package org.example;
+package businessLogic;
+
+import model.Employee;
+import model.Task;
 
 import java.util.*;
 

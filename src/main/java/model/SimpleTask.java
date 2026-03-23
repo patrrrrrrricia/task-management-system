@@ -1,4 +1,4 @@
-package org.example;
+package model;
 
 public final class SimpleTask extends Task{
     public int startHour;

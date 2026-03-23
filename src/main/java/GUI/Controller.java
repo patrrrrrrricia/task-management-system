@@ -1,5 +1,5 @@
-package ro.tuc.dsrl.example3;
-import org.example.TaskManagement;
+package GUI;
+
 import ro.tuc.dsrl.appLogic.Logic;
 
 import java.awt.event.ActionEvent;
@@ -13,9 +13,6 @@ public class Controller implements ActionListener{
 
     public Controller(View v){
         this.view = v;
-    }
-
-    public Controller(MainView view, TaskManagement businessLogic, org.example.dao.SerializationDAO dao) {
     }
 
     @Override

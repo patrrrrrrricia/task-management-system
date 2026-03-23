@@ -1,8 +1,9 @@
-package org.example.dao;
+package dataAcces;
+
 import java.io.*;
 import java.util.*;
 
-public class SerializationDAO {
+public class Serialization{
     private static final String FILE_NAME = "data.ser";
 
     public void saveData(Object data) {
