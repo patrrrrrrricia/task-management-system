@@ -47,4 +47,4 @@ javac -d bin src/**/*.java
 # 3. Execution
 # Launch the application via the Main entry point
 java -cp bin GUI.Main
-© 2026 Task Analytics Platform | Developed by Your Name Here
+© 2026 Task Analytics Platform | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://github.com/patrrrrrrricia)
