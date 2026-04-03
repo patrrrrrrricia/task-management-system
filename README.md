@@ -33,18 +33,4 @@ The project follows a standard layered architecture to maintain clean code and s
 
 ---
 
-##  Getting Started
-Follow these instructions to compile the source code and launch the management console:
-
-Bash
-# 1. Clone the repository
-git clone [https://github.com/your_username/PT2026_Group_LastName_FirstName_Assignment_1.git](https://github.com/your_username/PT2026_Group_LastName_FirstName_Assignment_1.git)
-
-# 2. Compilation
-# Compile all layers into the bin directory
-javac -d bin src/**/*.java
-
-# 3. Execution
-# Launch the application via the Main entry point
-java -cp bin GUI.Main
 © 2026 Task Analytics Platform | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://github.com/patrrrrrrricia)
