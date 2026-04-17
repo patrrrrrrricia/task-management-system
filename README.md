@@ -19,7 +19,7 @@ A bespoke management ecosystem tailored for efficient workforce orchestration. T
 
 ## 🎀 Core Functionality
 * **Entity Management:** Full visibility and management of employee profiles and task catalogs.
-* **Hierarchical Task Engine:** * Support for **Simple Tasks** with fixed durations.
+* **Hierarchical Task Engine:** Support for **Simple Tasks** with fixed durations.
     * Support for **Complex Tasks** using the **Composite Pattern** to group multiple sub-tasks.
 * **Advanced Data Analytics:**
     * **Hard Worker Filter:** Dynamic filtering of employees exceeding 40 hours of work.
