@@ -35,7 +35,8 @@ The project follows a standard layered architecture to maintain clean code and s
 * **`dataAcces`**: Manages the serialization and deserialization of the system state via `Serialization`.
 * **`GUI`**: Handles user interactions and real-time interface updates through the `Controller` and `View`.
 
-### Visual Documentation: Implementation Screenshots
+---
+### Visual Documentation
 
 | UML Class Diagram  | Layered Architecture |
 | :---: | :---: |
