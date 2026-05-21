@@ -35,8 +35,12 @@ The project follows a standard layered architecture to maintain clean code and s
 * **`dataAcces`**: Manages the serialization and deserialization of the system state via `Serialization`.
 * **`GUI`**: Handles user interactions and real-time interface updates through the `Controller` and `View`.
 
-* <img width="881" height="1876" alt="image" src="https://github.com/user-attachments/assets/459bb728-1c9e-4195-a34d-959c4de45a29" />
+### Visual Documentation: Implementation Screenshots
 
----
+| Screenshot 1 | Screenshot 2 |
+| :---: | :---: |
+| <img width="400" src="https://github.com/user-attachments/assets/459bb728-1c9e-4195-a34d-959c4de45a29" /> | <img width="400" src="https://github.com/user-attachments/assets/3b8b40da-a50b-42ba-94db-a6958d05587b" /> |
+| **Screenshot 3** | **Screenshot 4** |
+| <img width="400" src="https://github.com/user-attachments/assets/3fa6cc50-fe3b-4b3d-97c3-e7bd31eb3a87" /> | <img width="400" src="https://github.com/user-attachments/assets/8533875c-befa-449a-b696-d843a645778e" /> |
 
 © 2026 Task Analytics Platform | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/)
