@@ -7,7 +7,7 @@ import model.Task;
 import java.util.List;
 import java.util.Map;
 
-//CLASA MAIN
+//CLASA MAIN-porneste toata aplicatia
 public class Main {
     public static void main(String[] args) {
         // 1.initializare obiecte principale: salvarea si logica de business
@@ -28,11 +28,11 @@ public class Main {
 
         // 3.pornire interfata grafica pe thread-ul special de evenimente swing
         javax.swing.SwingUtilities.invokeLater(() -> {
-            //cream fereastra principala
+            //creare fereastra principala
             View view = new View("Task Management System");
-            // controller-ul este cel care leaga view-ul de logica si de sistemul de salvare
+            // controller-ul leaga view-ul de logica si de sistemul de salvare
             new Controller(view, businessLogic, dao);
-            //facem fereastra vizibila pentru utilizator
+            //va fi fereastra vizibila pentru utilizator
             view.setVisible(true);
         });
     }

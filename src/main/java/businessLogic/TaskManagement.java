@@ -66,6 +66,7 @@ public class TaskManagement {
 
     //(b) calculateemployeeworkduration: suma duratelor task urilor "completed"
     public int calculateEmployeeWorkDuration(Employee emp) {
+        //lista de task uri pt fiecare angajat
         List<Task> tasks = map.get(emp);
         if (tasks == null) return 0;
 

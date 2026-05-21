@@ -8,7 +8,7 @@ import java.awt.event.*;
 import java.util.List;
 import java.util.Map;
 
-//CLASA CE CONTROLEAZA INTERACTIUNEA DINTRE UTILIZATOR SI LOGICA APLICATIEI
+//clasa ce controleaza interactiunea dintre utilizator si logica aplicatiei
 public class Controller implements ActionListener {
     private View view;
     private TaskManagement logic;
