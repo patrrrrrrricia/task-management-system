@@ -40,6 +40,6 @@ The project follows a standard layered architecture to maintain clean code and s
 
 | UML Class Diagram  | Layered Architecture |
 | :---: | :---: |
-| <img width="400" src="https://github.com/user-attachments/assets/d2320346-dda6-4f27-9791-96803dcd2a7f" /> | <img width="400" src="https://github.com/user-attachments/assets/3b8b40da-a50b-42ba-94db-a6958d05587b" />  <img width="400" src="https://github.com/user-attachments/assets/3fa6cc50-fe3b-4b3d-97c3-e7bd31eb3a87" /> <img width="400" src="https://github.com/user-attachments/assets/8533875c-befa-449a-b696-d843a645778e" /> |
+| <img width="800" src="https://github.com/user-attachments/assets/d2320346-dda6-4f27-9791-96803dcd2a7f" /> | <img width="400" src="https://github.com/user-attachments/assets/3b8b40da-a50b-42ba-94db-a6958d05587b" />  <img width="400" src="https://github.com/user-attachments/assets/3fa6cc50-fe3b-4b3d-97c3-e7bd31eb3a87" /> <img width="400" src="https://github.com/user-attachments/assets/8533875c-befa-449a-b696-d843a645778e" /> |
 
 © 2026 Task Analytics Platform | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/)
