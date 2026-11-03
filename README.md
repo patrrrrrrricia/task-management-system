@@ -1,11 +1,11 @@
 # Task Management System
 
-## 💻 Overview
+## Overview
 A bespoke management ecosystem tailored for efficient workforce orchestration. This platform allows for seamless synchronization between project managers, employees, and hierarchical task structures. Built on a high-performance **Java 17** core, it transforms fragmented data into a sophisticated administrative experience, blending intuitive **Swing GUI** management with deep analytical intelligence.
 
 ---
 
-## 🤍 Tech Stack
+## Tech Stack
 * **Backend:** Java 17+, Object-Oriented Design
 * **Frontend:** Java Swing (Desktop UI)
 * **Architecture:** Layered Architecture (Model-View-Controller)
@@ -17,7 +17,7 @@ A bespoke management ecosystem tailored for efficient workforce orchestration. T
 
 ---
 
-## 🎀 Core Functionality
+## Core Functionality
 * **Entity Management:** Full visibility and management of employee profiles and task catalogs.
 * **Hierarchical Task Engine:** Support for **Simple Tasks** with fixed durations.
     * Support for **Complex Tasks** using the **Composite Pattern** to group multiple sub-tasks.
@@ -28,7 +28,7 @@ A bespoke management ecosystem tailored for efficient workforce orchestration. T
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 The project follows a standard layered architecture to maintain clean code and scalability:
 * **`model`**: Defines the core entities like `Employee`, `Task`, `SimpleTask`, and `ComplexTask`.
 * **`businessLogic`**: Contains the core logic for task assignment (`TaskManagement`) and statistical filtering (`Utility`).
